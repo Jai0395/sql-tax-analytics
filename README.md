@@ -1,2 +1,1 @@
-# sql-tax-analytics
-SQL projects focused on GST, VAT, and Tax Reconciliation
+This repository contains a modular auditable ETL pipeline designed for daily GST tax reconciliation.
